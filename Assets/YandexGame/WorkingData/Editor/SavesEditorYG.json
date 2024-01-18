@@ -1,0 +1,21 @@
+{
+    "idSave": 202,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "money": 1,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        true,
+        false
+    ],
+    "Money": 202,
+    "Weapon": [
+        true,
+        true,
+        true,
+        false
+    ],
+    "record": 209
+}
